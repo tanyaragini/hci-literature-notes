@@ -1,3 +1,5 @@
 # Research Papers
 
-This folder contains my summaries, notes, and reflections on research papers related to Human-Computer Interaction (HCI), Human-AI Interaction, Digital Well-being, and Social Computing.
+This directory is a living research notebok rather than a collection of summaries.
+
+Instead of only recording what previous work has achieved, I document where I think existing approaches fall short and what research opportunities they reveal. My goal is to gradually build foundational knowledge through continuous reading, critical reflections, and synthesis.
