@@ -1,13 +1,16 @@
 
-# Designing Digital Well-being Technologies
+# The Race Towards Digital Well-being: Issues and Opportunities
 
 ## Citation
-Authors:
-Year:
+Authors: Alberto Monge Roffarello
+Luigi De Russis
+Year: Conference CHI 2019
 Venue:
 
 ## Research Problem
 What problem does this paper try to solve?
+
+## Main Idea
 
 ## Method
 How was the study conducted?
@@ -17,7 +20,7 @@ How was the study conducted?
 - Point 2
 - Point 3
 
-## Limitations
+## My Reflection
 - ...
 
 ## My Reflection
