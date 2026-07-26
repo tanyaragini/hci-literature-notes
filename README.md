@@ -1,6 +1,6 @@
-# HCI Literature Notes
+# See my ongoing literature review
 
-A personal collection of research paper summaries, reading notes, and reflections in Human-Computer Interaction (HCI).
+This is a running log of papers I've read and how they connect to my own research direction.
 
 ## Research Areas
 
@@ -11,4 +11,4 @@ A personal collection of research paper summaries, reading notes, and reflection
 
 ## Purpose
 
-This repository documents my learning journey as I prepare for graduate research in HCI. It contains paper summaries, key insights, and personal reflections from the literature I read.
+This repository traces a question I keep returning to: contemporary systems are remarkably good at measuring, but comparatively poor at being meaningful. Each entry here is less summary and more an argument I'm testing, working through where existing approaches to self-monitoring and where they quietly fall short. This is the groundwork for a specific research direction I'm developing ahead of graduate study, and the notes reflect an evolving position rather than a finished one.
