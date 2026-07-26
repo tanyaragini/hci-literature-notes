@@ -20,9 +20,9 @@ How was the study conducted?
 - Point 2
 - Point 3
 
-## Limitations
+## Open Questions I'm Sitting With
 - ...
 
-## My Reflection
+## Why This Matters For My Research
 What did I learn from this paper?
 How could this inspire future research?
