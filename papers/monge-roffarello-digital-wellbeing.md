@@ -31,5 +31,3 @@ Reviewed 42 Play Store apps for features, coded 1,128 user reviews thematically,
 ## Why This Matters For My Research
 
 This paper shows that simply tracking and displaying behavior is not enough to change it, especially the more automatic, reflexive habits. It made me think carefully about what "being meaningful" would actually need to look like to matter, rather than just being another number on a screen. That question sits close to the direction I'm developing for my own research.
-
-How could this inspire future researc
