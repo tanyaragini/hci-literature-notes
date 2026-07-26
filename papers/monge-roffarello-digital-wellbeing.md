@@ -20,7 +20,7 @@ How was the study conducted?
 - Point 2
 - Point 3
 
-## My Reflection
+## Limitations
 - ...
 
 ## My Reflection
